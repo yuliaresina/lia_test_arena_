@@ -1,4 +1,4 @@
-  _id , _uuid ,datetime,just_booted, reset_reason,uptime,fw_version,modem_fw_version,rsrp
+  _id , _uuid ,timestamp,just_booted, reset_reason,uptime,fw_version,modem_fw_version,rsrp
 199087,359746167128144,2025-08-13 05:40:13.321404,t,16,216263032,v0.0.3-35-g0b0b003d-dirty,mfw_nrf9160_1.3.5,−79
 199086,359746167128144,2025-08-13 05:38:58.770629,t,16,216188486,v0.0.3-35-g0b0b003d-dirty,mfw_nrf9160_1.3.5,−79
 199079,359746167128144,2025-08-13 05:10:58.531085,t,16,214508202,v0.0.3-35-g0b0b003d-dirty,mfw_nrf9160_1.3.5,−79
